@@ -1,4 +1,5 @@
 Company Database
-1.Entities:
-2.Attributes:
+1.Entities:Employee,Department,Project,Dependent
+
+
 
