@@ -1,5 +1,8 @@
 Company Database
-1.Entities:Employee,Department,Project,Dependent
+1.Entities:Employee,Department,Project
 
 
+Employee(Name,empId,Salary,Adress)
+Department(Name,Location,Number)
+Project(Name,Number,Location)
 
